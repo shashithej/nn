@@ -1,4 +1,10 @@
 ---
 label: john bravo
 hide_body: true
-fields: []
+fields:
+- name: rty
+  type: text
+  config:
+    required: false
+  label: dfg
+  description: dfg
