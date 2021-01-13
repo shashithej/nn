@@ -12,6 +12,7 @@ sections:
   create: documents
   match: "*.md"
   templates:
+  - john-bravo
   - post
 - type: directory
   path: docs
